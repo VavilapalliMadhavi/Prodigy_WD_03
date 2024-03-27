@@ -1,2 +1,2 @@
 # Prodigy_WD_03
-Tic Tac Toe game
+Tic-Tac-Toe game
